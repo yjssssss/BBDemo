@@ -10,5 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //功能1    11111111111111111
+        //功能2    22222222222222222
     }
 }
